@@ -3,3 +3,4 @@ flask
 flask_cors
 flask_socketio
 gunicorn
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
