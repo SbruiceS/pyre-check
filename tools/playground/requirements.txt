@@ -3,3 +3,4 @@ flask
 flask_cors
 flask_socketio
 gunicorn
+marshmallow>=3.26.2 # not directly required, pinned by Snyk to avoid a vulnerability
